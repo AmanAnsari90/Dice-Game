@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(2, 2, 71);
+}
+h1{
+    color: chocolate;
+    font-size: 6rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+ 
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.dice{
+    margin: 15px;
+}
+
+p{
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    color: chocolate;
+    font-size: 20px;
+}
